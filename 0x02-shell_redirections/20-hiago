@@ -1,1 +1,2 @@
-VimCrypt~03!÷Fb:¥î:¡òø¹M"àŒÊa–oÀ$yæç—?Ü±Râ*Ã©nX¹™İ
+#!/bin/bash
+tr -d 'cC'
